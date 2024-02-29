@@ -1,7 +1,4 @@
 class Data:
-    MAIN_URL = 'https://qa-scooter.praktikum-services.ru/'
-    ZEN_ULR = 'https://dzen.ru/?yredirect=true'
-    ORDER_URL = 'https://qa-scooter.praktikum-services.ru/order'
     TEST_USER_NAME = 'Брюс'
     TEST_USER_SURNAME = 'Всемогущий'
     TEST_RENT_DATE = '29.02.2024'
